@@ -9,9 +9,9 @@
 <a href="https://twitter.com/MehediShubho" ><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MehediShubho?style=social"> </a>
 <br>
 
- <h1><i>I'm a Brother, Gamer, Learner, and Developer!! and Love WordPress</i></h1>
+ <h1><i>I'm a Brother, Gamer, Learner, and Developer and Love <span style="color:#3a30a>WordPress!!</span></i</h1>
 
-
+  
 
 <img alt="Awesome GitHub Profile Readme" src="assets/portfolio.gif"> </img>
 
