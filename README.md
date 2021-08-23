@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to MEHEDI HASAN SHUBHO </h1>
-<a href="https://devsroom.com/" target="_blank"><img src="assets/devsroom.png" alt="Devsroom.com" style="width: 200px; height: 44px;" width="200" height="44" /></a><a href="https://wpmhs.com/" target="_blank"><img src="assets/wpmhs.png" alt="wpmhs.com" style="width: 200px; height: 44px;" width="200" height="44" /></a>
+<div align="center">
+<a href="https://devsroom.com/" target="_blank"><img src="assets/devsroom.png" alt="Devsroom.com" style="width: 120px; height: 78px;" width="120" height="78" /></a><a href="https://wpmhs.com/" target="_blank"><img src="assets/wpmhs.png" alt="wpmhs.com" style="width: 120px; height: 44px;" width="120" height="44" /></a>
+</div>
 <div align="center">
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
@@ -7,14 +9,9 @@
 <a href="https://twitter.com/MehediShubho" ><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MehediShubho?style=social"> </a>
 <br>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+ <h1><i>I'm a Brother, Gamer, Learner, and Developer!! and Love WordPress</i></h1>
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+
 
 <img alt="Awesome GitHub Profile Readme" src="assets/portfolio.gif"> </img>
 
