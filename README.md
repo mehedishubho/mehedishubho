@@ -10,56 +10,12 @@
 <br>
 
  <h1><i>I'm a Brother, Gamer, Learner, Developer, Love <span style="color:#3a30a">WordPress and Elementor!!</span></i</h1>
-
-  
-
-<img alt="Awesome GitHub Profile Readme" src="assets/portfolio.gif"> </img>
-
-
 </div>
 
-### Contents:
-  - [Categories](#categories)
-      - [GitHub Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+<div align="center"> 
+<img alt="Awesome GitHub Profile Readme" src="assets/portfolio.gif"> </img>
 
-
-## Categories
-
-#### GitHub Actions 🤖
-
-
-
-#### Dynamic Realtime 💫
-
-
-#### A Little Bit of Everything 😃
-
-
-#### Descriptive 🗒
-
-
-#### Simple but Innovative Ones 🤗
-
+ <a href="https://app.daily.dev/wpmhs"><img src="https://api.daily.dev/devcards/38920a17870d4210bf9e79dfb58edb17.png?r=dmf" width="400" alt="MEHEDI HASSAN SHUBHO's Dev Card"/></a>
 
 
 
